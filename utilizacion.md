@@ -1,4 +1,4 @@
-# Utilización de las rasphberry
+# Utilización de las Raspberry
 Algunos de los usos que se les puede dar a la Raspberry son los siguientes.
 
 ### Mini PC de escritorio
